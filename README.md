@@ -68,6 +68,8 @@
 ```
 **Training Logs**:
 ![image](https://github.com/RaviNaik/ERA-SESSION17/assets/23289802/e9b85c19-389f-4e02-affc-e722000dcf13)
+![image](https://github.com/RaviNaik/ERA-SESSION17/assets/23289802/3311ba90-fddf-4694-9084-ea07d7488e4a)
+
 
 ### GPT
 **Architecture**:
@@ -123,6 +125,7 @@
 ```
 **Training Logs**:
 ![image](https://github.com/RaviNaik/ERA-SESSION17/assets/23289802/e03b464d-2a96-493e-ad52-776560105aa4)
+![image](https://github.com/RaviNaik/ERA-SESSION17/assets/23289802/ede0b3c7-b71d-4221-aba8-d9899fb4ec19)
 
 ### ViT
 **Architecture:**
@@ -176,6 +179,12 @@
 43.1 M    Total params
 172.484   Total estimated model params size (MB)
 ```
+**Sample Data:**
+![image](https://github.com/RaviNaik/ERA-SESSION17/assets/23289802/645f3a6c-fcf9-4e67-906e-4e294839eca0)
+
+**Patchified Image:**
+![image](https://github.com/RaviNaik/ERA-SESSION17/assets/23289802/c9ad1d32-8dde-4543-a075-39e66d5cf57a)
 
 **Training Logs**:
+![image](https://github.com/RaviNaik/ERA-SESSION17/assets/23289802/748d2640-171d-46da-b7d1-7b17d4e6c67f)
 
